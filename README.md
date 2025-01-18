@@ -34,4 +34,3 @@ Este bot verifica partidas de CS2 e cria eventos no Discord com base em um arqui
    ```bash
    python3 -m src.app
    ```
-```
