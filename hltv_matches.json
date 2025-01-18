@@ -1,0 +1,236 @@
+[
+    {
+        "team1": "WOPA",
+        "team2": "CPH Wolves",
+        "datetime": "2025-01-18 15:45:00",
+        "event": "CCT Season 2 Europe Series 16 Closed Qualifier"
+    },
+    {
+        "team1": "Astralis",
+        "team2": "Natus Vincere",
+        "datetime": "2025-01-18 16:00:00",
+        "event": "BLAST Bounty 2025 Season 1"
+    },
+    {
+        "team1": "Solid",
+        "team2": "Patins da Ferrari",
+        "datetime": "2025-01-18 18:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "Tsunami",
+        "team2": "Kraken",
+        "datetime": "2025-01-18 20:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "adalYamigos",
+        "team2": "ShindeN",
+        "datetime": "2025-01-18 21:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "Aether",
+        "team2": "Lotus fe",
+        "datetime": "2025-01-18 23:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "Rare Atom",
+        "team2": "XO",
+        "datetime": "2025-01-19 00:00:00",
+        "event": "ZOWIE eXTREMESLAND Asia Open 2024"
+    },
+    {
+        "team1": "OL5",
+        "team2": "st4rboys",
+        "datetime": "2025-01-19 02:30:00",
+        "event": "Dust2 India 1xBet Masters 18"
+    },
+    {
+        "team1": "Big W",
+        "team2": "Victores Sumus",
+        "datetime": "2025-01-19 02:30:00",
+        "event": "Dust2 India 1xBet Masters 18"
+    },
+    {
+        "team1": "ATOX",
+        "team2": "JiJieHao",
+        "datetime": "2025-01-19 03:00:00",
+        "event": "ZOWIE eXTREMESLAND Asia Open 2024"
+    },
+    {
+        "team1": "ENCE Academy",
+        "team2": "TNL",
+        "datetime": "2025-01-19 06:00:00",
+        "event": "United21 League Season 25"
+    },
+    {
+        "team1": "Eternal Fire",
+        "team2": "Falcons",
+        "datetime": "2025-01-19 08:00:00",
+        "event": "BLAST Bounty 2025 Season 1"
+    },
+    {
+        "team1": "WOPA",
+        "team2": "Chimera",
+        "datetime": "2025-01-19 08:30:00",
+        "event": "European Pro League 2nd Division Season 19"
+    },
+    {
+        "team1": "FURIA",
+        "team2": "BetBoom",
+        "datetime": "2025-01-19 10:30:00",
+        "event": "BLAST Bounty 2025 Season 1"
+    },
+    {
+        "team1": "GenOne",
+        "team2": "BC.Game",
+        "datetime": "2025-01-19 11:00:00",
+        "event": "European Pro League 2nd Division Season 19"
+    },
+    {
+        "team1": "Imperial fe",
+        "team2": "Eco Warriors",
+        "datetime": "2025-01-19 11:00:00",
+        "event": "Tradeit League FE Masters Season 6"
+    },
+    {
+        "team1": "MIBR fe",
+        "team2": "Bounty Hunters",
+        "datetime": "2025-01-19 12:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "Virtus.pro",
+        "team2": "Vitality",
+        "datetime": "2025-01-19 13:00:00",
+        "event": "BLAST Bounty 2025 Season 1"
+    },
+    {
+        "team1": "BIG",
+        "team2": "G2",
+        "datetime": "2025-01-19 15:30:00",
+        "event": "BLAST Bounty 2025 Season 1"
+    },
+    {
+        "team1": "UNO MILLE",
+        "team2": "GameHunters",
+        "datetime": "2025-01-19 15:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "Tropa do Taco",
+        "team2": "Bad News Chickens",
+        "datetime": "2025-01-19 18:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "InControl",
+        "team2": "Revel",
+        "datetime": "2025-01-19 20:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "E-Xolos LAZER",
+        "team2": "Players",
+        "datetime": "2025-01-19 21:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "Mythic",
+        "team2": "Unjustified fe",
+        "datetime": "2025-01-19 23:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "M80",
+        "team2": "Nexus",
+        "datetime": "2025-01-20 06:00:00",
+        "event": "ICE Invitational 2025"
+    },
+    {
+        "team1": "CPH Wolves",
+        "team2": null,
+        "datetime": "2025-01-20 06:00:00",
+        "event": "United21 League Season 25"
+    },
+    {
+        "team1": "Sashi",
+        "team2": "500",
+        "datetime": "2025-01-20 07:30:00",
+        "event": "ICE Invitational 2025"
+    },
+    {
+        "team1": "Bad News Capybaras",
+        "team2": "MCS",
+        "datetime": "2025-01-20 20:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "Chicken Coop",
+        "team2": "Alter Iron",
+        "datetime": "2025-01-20 23:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "regain",
+        "team2": "Getting Info",
+        "datetime": "2025-01-21 20:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "Akimbo",
+        "team2": "MIGHT",
+        "datetime": "2025-01-21 23:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "Liquid",
+        "team2": "HEROIC",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "Complexity",
+        "team2": "Eternal Fire",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "3DMAX",
+        "team2": "FlyQuest",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "Astralis",
+        "team2": "MIBR",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "paiN",
+        "team2": "Virtus.pro",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "SAW",
+        "team2": "GamerLegion",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "Wildcard",
+        "team2": "BIG",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    },
+    {
+        "team1": "Imperial fe",
+        "team2": "FURIA",
+        "datetime": "2025-01-29 08:00:00",
+        "event": "IEM Katowice 2025 Play-in"
+    }
+]

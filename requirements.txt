@@ -1,0 +1,8 @@
+schedule
+pytz
+discord.py
+python-dotenv
+cloudscraper
+beautifulsoup4
+pandas
+aiohttp
