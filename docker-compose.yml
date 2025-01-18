@@ -10,5 +10,4 @@ services:
     image: lorthe/discord-hltv-matches:latest  # Nome e tag da imagem que você deseja
     env_file:
       - .env
-    ports:
-      - "8080:8080"
+
