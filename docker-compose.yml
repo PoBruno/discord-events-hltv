@@ -1,0 +1,14 @@
+# docker logs discord-hltv-matches
+# docker logs -f discord-hltv-matches
+version: "3.8"
+
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: lorthe/discord-hltv-matches:latest  # Nome e tag da imagem que você deseja
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
