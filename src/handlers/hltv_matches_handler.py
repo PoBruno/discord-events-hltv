@@ -1,14 +1,17 @@
-import cloudscraper
-from bs4 import BeautifulSoup
-import pandas as pd
-import asyncio
-import random
-import pytz
+
 import json
+import pytz
+import random
+import asyncio
+import cloudscraper
+import pandas as pd
+from bs4 import BeautifulSoup
+from src.utils.timezone import get_timezone
 
-tz_brasil = pytz.timezone("America/Sao_Paulo")
+#timezone_tz = pytz.timezone("America/Sao_Paulo")
+timezone_tz = get_timezone()
 
-async def hltv_matches():
+async def fetch_hltv_matches():
     scraper = cloudscraper.create_scraper()
     url = 'https://www.hltv.org/matches'
     headers = {
@@ -43,13 +46,13 @@ async def hltv_matches():
         df_matches = pd.DataFrame(matches)
         if 'datetime' in df_matches.columns:
             df_matches['datetime'] = pd.to_datetime(df_matches['datetime'], unit='ms')
-            df_matches['datetime'] = df_matches['datetime'].dt.tz_localize('UTC').dt.tz_convert(tz_brasil)
+            df_matches['datetime'] = df_matches['datetime'].dt.tz_localize('UTC').dt.tz_convert(timezone_tz)
             df_matches['datetime'] = df_matches['datetime'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
             for match, formatted_datetime in zip(matches, df_matches['datetime']):
                 match['datetime'] = formatted_datetime
 
-            output_file = "hltv_matches.json"
+            output_file = "./src/data/hltv_matches.json"
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(matches, f, ensure_ascii=False, indent=4)
             print(f"Arquivo exportado com sucesso: {output_file}")
@@ -57,4 +60,4 @@ async def hltv_matches():
             print("Nenhum dado de datetime válido encontrado.")
     else:
         print("Nenhum match encontrado.")
-
+        
