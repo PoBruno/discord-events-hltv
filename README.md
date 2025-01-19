@@ -18,7 +18,7 @@ Este bot verifica partidas de CS2 e cria eventos no Discord com base em um arqui
 
 2. Execute o Docker Run:
    ```bash
-   docker run --env-file .env --name discord-hltv-bot -d lorthe/discord-hltv-matches:latest
+   docker run --env-file .env --name discord-hltv-bot --restart on-failure -d lorthe/discord-hltv-matches:latest
    ```
 
 ## Configuração
@@ -34,3 +34,55 @@ Este bot verifica partidas de CS2 e cria eventos no Discord com base em um arqui
    ```bash
    python3 -m src.app
    ```
+
+# Arquitetura
+
+```mermaid
+graph TB
+    User((Discord User))
+    
+    subgraph "Discord Bot System"
+        subgraph "Discord Integration Layer"
+            DiscordClient["Discord Client<br>(discord.py)"]
+            EventManager["Event Manager<br>(discord.py)"]
+        end
+        
+        subgraph "Core Application"
+            MainApp["Main Application<br>(Python)"]
+            Scheduler["Task Scheduler<br>(schedule)"]
+            
+            subgraph "Match Processing Components"
+                MatchProcessor["Match Processor<br>(Python)"]
+                EventCreator["Event Creator<br>(discord.py)"]
+                JSONLoader["JSON Loader<br>(Python json)"]
+            end
+        end
+        
+        subgraph "Data Storage"
+            MatchesJSON[("Matches Data<br>JSON File")]
+            EnvConfig[("Environment Config<br>.env")]
+        end
+    end
+    
+    subgraph "External Systems"
+        DiscordAPI["Discord API<br>(External Service)"]
+    end
+
+    %% Relationships
+    User -->|"Interacts with"| DiscordAPI
+    DiscordAPI -->|"Communicates with"| DiscordClient
+    
+    MainApp -->|"Initializes"| DiscordClient
+    MainApp -->|"Configures"| Scheduler
+    MainApp -->|"Reads"| EnvConfig
+    
+    Scheduler -->|"Triggers"| MatchProcessor
+    MatchProcessor -->|"Reads"| MatchesJSON
+    MatchProcessor -->|"Uses"| JSONLoader
+    MatchProcessor -->|"Creates events via"| EventCreator
+    
+    EventCreator -->|"Uses"| EventManager
+    EventManager -->|"Manages events through"| DiscordClient
+    
+    DiscordClient -->|"Creates/Updates Events"| DiscordAPI
+```
