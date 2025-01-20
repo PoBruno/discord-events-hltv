@@ -53,7 +53,7 @@ async def check_and_create_events(client, guild_id, discord_token):
             event_name = f"{match['team1']} vs {match['team2']}"
             event_time = tz.localize(datetime.strptime(match['datetime'], '%Y-%m-%d %H:%M:%S'))
             if event_name not in existing_event_names:
-                event_description = f"**Match:** {match['team1']} vs {match['team2']}\n**Event:** {match['event']}"
+                event_description = f"**Match:** {match['team1']} vs {match['team2']} - {match['datetime'], '%Y-%m-%d %H:%M:%S'} \n**Event:** {match['event']}"
                 await events_api.create_guild_event(
                     guild_id=guild_id,
                     event_name=event_name,
