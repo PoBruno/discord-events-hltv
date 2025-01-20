@@ -2,6 +2,7 @@
 # docker logs -f discord-hltv-matches
 services:
   bot:
+    container_name: bot-hltv
     build:
       context: .
       dockerfile: Dockerfile
