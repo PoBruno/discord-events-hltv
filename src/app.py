@@ -22,12 +22,12 @@ client = Client(intents=intents)
 
 @client.event
 async def on_ready():
-    print(f"Bot connected as {client.user}")
+    print(f"Bot connected as {client.user}", flush=True)
 
     async def scheduled_task():
-        print("Running scheduled task...")
+        print("Running scheduled task...", flush=True)
         await fetch_hltv_matches()
-        print("HLTV matches processed. Creating Discord events...")
+        print("HLTV matches processed. Creating Discord events...", flush=True)
         await check_and_create_events(client, DISCORD_GUILD_ID, DISCORD_TOKEN)
 
     await scheduled_task()

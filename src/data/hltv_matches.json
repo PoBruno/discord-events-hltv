@@ -1,272 +1,1232 @@
 [
     {
-        "team1": "Solid",
-        "team2": "Patins da Ferrari",
-        "datetime": "2025-01-18 18:30:00",
+        "team1": "9INE",
+        "team2": "CYBERSHOKE",
+        "datetime": "2025-01-20 18:00:00",
+        "event": "CCT Season 2 Europe Series 16"
+    },
+    {
+        "team1": "Dusty Roots",
+        "team2": "NITRO",
+        "datetime": "2025-01-20 18:30:00",
         "event": "CCT Season 2 South America Series 6"
-    },
-    {
-        "team1": "Tsunami",
-        "team2": "Kraken",
-        "datetime": "2025-01-18 20:00:00",
-        "event": "CCT Season 2 North America Series 4"
-    },
-    {
-        "team1": "adalYamigos",
-        "team2": "ShindeN",
-        "datetime": "2025-01-18 21:30:00",
-        "event": "CCT Season 2 South America Series 6"
-    },
-    {
-        "team1": "Aether",
-        "team2": "Lotus fe",
-        "datetime": "2025-01-18 23:00:00",
-        "event": "CCT Season 2 North America Series 4"
-    },
-    {
-        "team1": "Rare Atom",
-        "team2": "XO",
-        "datetime": "2025-01-19 00:00:00",
-        "event": "ZOWIE eXTREMESLAND Asia Open 2024"
-    },
-    {
-        "team1": "OL5",
-        "team2": "st4rboys",
-        "datetime": "2025-01-19 02:30:00",
-        "event": "Dust2 India 1xBet Masters 18"
-    },
-    {
-        "team1": "Big W",
-        "team2": "Victores Sumus",
-        "datetime": "2025-01-19 02:30:00",
-        "event": "Dust2 India 1xBet Masters 18"
-    },
-    {
-        "team1": "ATOX",
-        "team2": "JiJieHao",
-        "datetime": "2025-01-19 03:00:00",
-        "event": "ZOWIE eXTREMESLAND Asia Open 2024"
-    },
-    {
-        "team1": "ENCE Academy",
-        "team2": "TNL",
-        "datetime": "2025-01-19 06:00:00",
-        "event": "United21 League Season 25"
-    },
-    {
-        "team1": "Eternal Fire",
-        "team2": "Falcons",
-        "datetime": "2025-01-19 08:00:00",
-        "event": "BLAST Bounty 2025 Season 1"
-    },
-    {
-        "team1": "WOPA",
-        "team2": "Chimera",
-        "datetime": "2025-01-19 08:30:00",
-        "event": "European Pro League 2nd Division Season 19"
-    },
-    {
-        "team1": "FURIA",
-        "team2": "BetBoom",
-        "datetime": "2025-01-19 10:30:00",
-        "event": "BLAST Bounty 2025 Season 1"
-    },
-    {
-        "team1": "GenOne",
-        "team2": "BC.Game",
-        "datetime": "2025-01-19 11:00:00",
-        "event": "European Pro League 2nd Division Season 19"
-    },
-    {
-        "team1": "Imperial fe",
-        "team2": "Eco Warriors",
-        "datetime": "2025-01-19 11:00:00",
-        "event": "Tradeit League FE Masters Season 6"
-    },
-    {
-        "team1": "MIBR fe",
-        "team2": "Bounty Hunters",
-        "datetime": "2025-01-19 12:30:00",
-        "event": "CCT Season 2 South America Series 6"
-    },
-    {
-        "team1": "Virtus.pro",
-        "team2": "Vitality",
-        "datetime": "2025-01-19 13:00:00",
-        "event": "BLAST Bounty 2025 Season 1"
-    },
-    {
-        "team1": "BIG",
-        "team2": "G2",
-        "datetime": "2025-01-19 15:30:00",
-        "event": "BLAST Bounty 2025 Season 1"
     },
     {
         "team1": "UNO MILLE",
-        "team2": "GameHunters",
-        "datetime": "2025-01-19 15:30:00",
-        "event": "CCT Season 2 South America Series 6"
-    },
-    {
-        "team1": "Tropa do Taco",
-        "team2": "Bad News Chickens",
-        "datetime": "2025-01-19 18:30:00",
-        "event": "CCT Season 2 South America Series 6"
-    },
-    {
-        "team1": "InControl",
-        "team2": "Revel",
-        "datetime": "2025-01-19 20:00:00",
-        "event": "CCT Season 2 North America Series 4"
-    },
-    {
-        "team1": "E-Xolos LAZER",
         "team2": "Players",
-        "datetime": "2025-01-19 21:30:00",
+        "datetime": "2025-01-20 21:30:00",
         "event": "CCT Season 2 South America Series 6"
-    },
-    {
-        "team1": "Mythic",
-        "team2": "Unjustified fe",
-        "datetime": "2025-01-19 23:00:00",
-        "event": "CCT Season 2 North America Series 4"
-    },
-    {
-        "team1": "M80",
-        "team2": "Nexus",
-        "datetime": "2025-01-20 06:00:00",
-        "event": "ICE Invitational 2025"
-    },
-    {
-        "team1": "CPH Wolves",
-        "team2": null,
-        "datetime": "2025-01-20 06:00:00",
-        "event": "United21 League Season 25"
-    },
-    {
-        "team1": "BC.Game",
-        "team2": "JANO",
-        "datetime": "2025-01-20 06:00:00",
-        "event": "YaLLa Compass Winter 2025 Contenders"
-    },
-    {
-        "team1": "Sashi",
-        "team2": "500",
-        "datetime": "2025-01-20 07:30:00",
-        "event": "ICE Invitational 2025"
-    },
-    {
-        "team1": "GTZ",
-        "team2": "Apogee",
-        "datetime": "2025-01-20 09:00:00",
-        "event": "YaLLa Compass Winter 2025 Contenders"
     },
     {
         "team1": "Bad News Capybaras",
         "team2": "MCS",
-        "datetime": "2025-01-20 20:00:00",
-        "event": "CCT Season 2 North America Series 4"
-    },
-    {
-        "team1": "Chicken Coop",
-        "team2": "Alter Iron",
         "datetime": "2025-01-20 23:00:00",
         "event": "CCT Season 2 North America Series 4"
     },
     {
-        "team1": "9INE",
-        "team2": "Partizan",
-        "datetime": "2025-01-21 06:00:00",
-        "event": "YaLLa Compass Winter 2025 Contenders"
+        "team1": "MIBR fe",
+        "team2": "Patins da Ferrari",
+        "datetime": "2025-01-21 00:30:00",
+        "event": "CCT Season 2 South America Series 6"
     },
     {
-        "team1": "Into the Breach",
-        "team2": "Zero Tenacity",
+        "team1": "Chicken Coop",
+        "team2": "Alter Iron",
+        "datetime": "2025-01-21 02:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "M80",
+        "team2": "Sashi",
+        "datetime": "2025-01-21 08:00:00",
+        "event": "ICE Invitational 2025"
+    },
+    {
+        "team1": "Chimera",
+        "team2": "BC.Game",
+        "datetime": "2025-01-21 09:00:00",
+        "event": "European Pro League 2nd Division Season 19"
+    },
+    {
+        "team1": "9INE",
+        "team2": "Partizan",
         "datetime": "2025-01-21 09:00:00",
         "event": "YaLLa Compass Winter 2025 Contenders"
     },
     {
-        "team1": "regain",
-        "team2": "Getting Info",
-        "datetime": "2025-01-21 20:00:00",
-        "event": "CCT Season 2 North America Series 4"
+        "team1": "Aurora",
+        "team2": "Rebels",
+        "datetime": "2025-01-21 09:00:00",
+        "event": "CCT Season 2 Europe Series 16"
     },
     {
-        "team1": "Akimbo",
-        "team2": "MIGHT",
+        "team1": "500",
+        "team2": null,
+        "datetime": "2025-01-21 11:30:00",
+        "event": "ICE Invitational 2025"
+    },
+    {
+        "team1": "Into the Breach",
+        "team2": "Zero Tenacity",
+        "datetime": "2025-01-21 12:00:00",
+        "event": "YaLLa Compass Winter 2025 Contenders"
+    },
+    {
+        "team1": "SINNERS",
+        "team2": "AMKAL",
+        "datetime": "2025-01-21 12:00:00",
+        "event": "CCT Season 2 Europe Series 16"
+    },
+    {
+        "team1": "Lynn Vision",
+        "team2": "Chinggis Warriors",
+        "datetime": "2025-01-21 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "UR",
+        "team2": "Just Swing",
+        "datetime": "2025-01-21 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "-72c",
+        "team2": "LFO 2",
+        "datetime": "2025-01-21 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "harizma",
+        "team2": "TYLOO",
+        "datetime": "2025-01-21 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "THE",
+        "team2": "NomadS",
+        "datetime": "2025-01-21 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Rare Atom",
+        "team2": "The Huns",
+        "datetime": "2025-01-21 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Chinggis Warriors",
+        "team2": "Lynn Vision",
+        "datetime": "2025-01-21 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Just Swing",
+        "team2": "UR",
+        "datetime": "2025-01-21 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "LFO 2",
+        "team2": "-72c",
+        "datetime": "2025-01-21 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "TYLOO",
+        "team2": "harizma",
+        "datetime": "2025-01-21 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "NomadS",
+        "team2": "THE",
+        "datetime": "2025-01-21 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The Huns",
+        "team2": "Rare Atom",
+        "datetime": "2025-01-21 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "ECSTATIC",
+        "team2": "Iberian Soul",
+        "datetime": "2025-01-21 15:00:00",
+        "event": "CCT Season 2 Europe Series 16"
+    },
+    {
+        "team1": "Sashi",
+        "team2": "Fire Flux",
+        "datetime": "2025-01-21 18:00:00",
+        "event": "CCT Season 2 Europe Series 16"
+    },
+    {
+        "team1": "Solid",
+        "team2": "Bounty Hunters",
+        "datetime": "2025-01-21 18:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "CYBERSHOKE",
+        "team2": "Betera",
+        "datetime": "2025-01-21 19:00:00",
+        "event": "ESL Challenger League Season 49 Europe"
+    },
+    {
+        "team1": "PARIVISION",
+        "team2": "SINNERS",
+        "datetime": "2025-01-21 19:00:00",
+        "event": "ESL Challenger League Season 49 Europe"
+    },
+    {
+        "team1": "Monte",
+        "team2": "9 Pandas",
+        "datetime": "2025-01-21 19:00:00",
+        "event": "ESL Challenger League Season 49 Europe"
+    },
+    {
+        "team1": "ShindeN",
+        "team2": "GameHunters",
+        "datetime": "2025-01-21 21:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "regain",
+        "team2": "Getting Info",
         "datetime": "2025-01-21 23:00:00",
         "event": "CCT Season 2 North America Series 4"
     },
     {
-        "team1": "ECSTATIC",
-        "team2": "FAVBET",
-        "datetime": "2025-01-22 06:00:00",
-        "event": "YaLLa Compass Winter 2025 Contenders"
+        "team1": "Floripa Stars",
+        "team2": "KRÜ",
+        "datetime": "2025-01-21 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
     },
     {
-        "team1": "Monte",
-        "team2": "OG",
+        "team1": "Yawara",
+        "team2": "Bad News Chickens",
+        "datetime": "2025-01-21 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "UNO MILLE",
+        "team2": "RED Canids",
+        "datetime": "2025-01-21 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Swingers",
+        "team2": "Solid",
+        "datetime": "2025-01-21 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "BESTIA",
+        "team2": "Tropa do Taco",
+        "datetime": "2025-01-21 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Bad News Chickens",
+        "team2": "Yawara",
+        "datetime": "2025-01-22 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "RED Canids",
+        "team2": "UNO MILLE",
+        "datetime": "2025-01-22 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Solid",
+        "team2": "Swingers",
+        "datetime": "2025-01-22 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Tropa do Taco",
+        "team2": "BESTIA",
+        "datetime": "2025-01-22 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "KRÜ",
+        "team2": "Floripa Stars",
+        "datetime": "2025-01-22 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "adalYamigos",
+        "team2": "Bad News Chickens",
+        "datetime": "2025-01-22 00:30:00",
+        "event": "CCT Season 2 South America Series 6"
+    },
+    {
+        "team1": "Akimbo",
+        "team2": "MIGHT",
+        "datetime": "2025-01-22 02:00:00",
+        "event": "CCT Season 2 North America Series 4"
+    },
+    {
+        "team1": "NRG",
+        "team2": "Alter Iron",
+        "datetime": "2025-01-22 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Party Astronauts",
+        "team2": "Akimbo",
+        "datetime": "2025-01-22 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "InControl",
+        "team2": "Chill Guys",
+        "datetime": "2025-01-22 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Bad News Capybaras",
+        "team2": "Chicken Coop",
+        "datetime": "2025-01-22 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Aetheris",
+        "team2": "LAG",
+        "datetime": "2025-01-22 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Alter Iron",
+        "team2": "NRG",
+        "datetime": "2025-01-22 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Akimbo",
+        "team2": "Party Astronauts",
+        "datetime": "2025-01-22 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chill Guys",
+        "team2": "InControl",
+        "datetime": "2025-01-22 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chicken Coop",
+        "team2": "Bad News Capybaras",
+        "datetime": "2025-01-22 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Aetheris",
+        "team2": "LAG",
+        "datetime": "2025-01-22 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "ECSTATIC",
+        "team2": "FAVBET",
         "datetime": "2025-01-22 09:00:00",
         "event": "YaLLa Compass Winter 2025 Contenders"
     },
     {
-        "team1": "Sashi",
-        "team2": "SINNERS",
-        "datetime": "2025-01-23 06:00:00",
+        "team1": "Underground",
+        "team2": "Justice For Tomorrow",
+        "datetime": "2025-01-22 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Rooster",
+        "team2": "Mindfreak",
+        "datetime": "2025-01-22 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Vantage",
+        "team2": "The Art of War",
+        "datetime": "2025-01-22 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "KZG",
+        "team2": "MANTRA",
+        "datetime": "2025-01-22 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "TALON",
+        "team2": "Housebets",
+        "datetime": "2025-01-22 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Justice For Tomorrow",
+        "team2": "Underground",
+        "datetime": "2025-01-22 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Mindfreak",
+        "team2": "Rooster",
+        "datetime": "2025-01-22 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "The Art of War",
+        "team2": "Vantage",
+        "datetime": "2025-01-22 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "MANTRA",
+        "team2": "KZG",
+        "datetime": "2025-01-22 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Housebets",
+        "team2": "TALON",
+        "datetime": "2025-01-22 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Monte",
+        "team2": "OG",
+        "datetime": "2025-01-22 12:00:00",
         "event": "YaLLa Compass Winter 2025 Contenders"
     },
     {
-        "team1": "GUN5",
-        "team2": "Nexus",
+        "team1": "Chinggis Warriors",
+        "team2": "TYLOO",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The Huns",
+        "team2": "-72c",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "THE",
+        "team2": "ATOX",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Rare Atom",
+        "team2": "The QUBE",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "FengDa",
+        "team2": "harizma",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Just Swing",
+        "team2": "NomadS",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Lynn Vision",
+        "team2": "LFO 2",
+        "datetime": "2025-01-22 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "TYLOO",
+        "team2": "Chinggis Warriors",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "-72c",
+        "team2": "The Huns",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "ATOX",
+        "team2": "THE",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The QUBE",
+        "team2": "Rare Atom",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "harizma",
+        "team2": "FengDa",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "NomadS",
+        "team2": "Just Swing",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "LFO 2",
+        "team2": "Lynn Vision",
+        "datetime": "2025-01-22 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "BESTIA",
+        "team2": "GameHunters",
+        "datetime": "2025-01-22 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Yawara",
+        "team2": "adalYamigos",
+        "datetime": "2025-01-22 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "RED Canids",
+        "team2": "Sharks",
+        "datetime": "2025-01-22 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Bad News Chickens",
+        "team2": "Fluxo",
+        "datetime": "2025-01-22 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Floripa Stars",
+        "team2": "Bounty Hunters",
+        "datetime": "2025-01-22 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "UNO MILLE",
+        "team2": "KRÜ",
+        "datetime": "2025-01-22 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "GameHunters",
+        "team2": "BESTIA",
+        "datetime": "2025-01-23 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "adalYamigos",
+        "team2": "Yawara",
+        "datetime": "2025-01-23 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Sharks",
+        "team2": "RED Canids",
+        "datetime": "2025-01-23 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Fluxo",
+        "team2": "Bad News Chickens",
+        "datetime": "2025-01-23 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Bounty Hunters",
+        "team2": "Floripa Stars",
+        "datetime": "2025-01-23 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "KRÜ",
+        "team2": "UNO MILLE",
+        "datetime": "2025-01-23 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "NRG",
+        "team2": "LAG",
+        "datetime": "2025-01-23 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Nouns",
+        "team2": "Bad News Capybaras",
+        "datetime": "2025-01-23 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "BOSS",
+        "team2": "Alter Iron",
+        "datetime": "2025-01-23 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Getting Info",
+        "team2": "Aetheris",
+        "datetime": "2025-01-23 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Marsborne",
+        "team2": "Chicken Coop",
+        "datetime": "2025-01-23 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "InControl",
+        "team2": "Akimbo",
+        "datetime": "2025-01-23 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "LAG",
+        "team2": "NRG",
+        "datetime": "2025-01-23 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Bad News Capybaras",
+        "team2": "Nouns",
+        "datetime": "2025-01-23 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Alter Iron",
+        "team2": "BOSS",
+        "datetime": "2025-01-23 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Aetheris",
+        "team2": "Getting Info",
+        "datetime": "2025-01-23 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chicken Coop",
+        "team2": "Marsborne",
+        "datetime": "2025-01-23 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Akimbo",
+        "team2": "InControl",
+        "datetime": "2025-01-23 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Sashi",
+        "team2": "SINNERS",
         "datetime": "2025-01-23 09:00:00",
         "event": "YaLLa Compass Winter 2025 Contenders"
     },
     {
+        "team1": "Vantage",
+        "team2": "Underground",
+        "datetime": "2025-01-23 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "TALON",
+        "team2": "Justice For Tomorrow",
+        "datetime": "2025-01-23 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "The Art of War",
+        "team2": "KZG",
+        "datetime": "2025-01-23 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "MANTRA",
+        "team2": "Rooster",
+        "datetime": "2025-01-23 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Mindfreak",
+        "team2": "Housebets",
+        "datetime": "2025-01-23 10:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Underground",
+        "team2": "Vantage",
+        "datetime": "2025-01-23 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Justice For Tomorrow",
+        "team2": "TALON",
+        "datetime": "2025-01-23 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "KZG",
+        "team2": "The Art of War",
+        "datetime": "2025-01-23 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Rooster",
+        "team2": "MANTRA",
+        "datetime": "2025-01-23 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "Housebets",
+        "team2": "Mindfreak",
+        "datetime": "2025-01-23 11:00:00",
+        "event": "ESL Challenger League Season 49 Oceania"
+    },
+    {
+        "team1": "GUN5",
+        "team2": "Nexus",
+        "datetime": "2025-01-23 12:00:00",
+        "event": "YaLLa Compass Winter 2025 Contenders"
+    },
+    {
+        "team1": "-72c",
+        "team2": "UR",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "ATOX",
+        "team2": "Lynn Vision",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The QUBE",
+        "team2": "Just Swing",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "harizma",
+        "team2": "The Huns",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "TYLOO",
+        "team2": "NomadS",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "LFO 2",
+        "team2": "Chinggis Warriors",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "THE",
+        "team2": "FengDa",
+        "datetime": "2025-01-23 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "UR",
+        "team2": "-72c",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Lynn Vision",
+        "team2": "ATOX",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Just Swing",
+        "team2": "The QUBE",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The Huns",
+        "team2": "harizma",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "NomadS",
+        "team2": "TYLOO",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Chinggis Warriors",
+        "team2": "LFO 2",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "FengDa",
+        "team2": "THE",
+        "datetime": "2025-01-23 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "KRÜ",
+        "team2": "GameHunters",
+        "datetime": "2025-01-23 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "RED Canids",
+        "team2": "Bad News Chickens",
+        "datetime": "2025-01-23 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Solid",
+        "team2": "Yawara",
+        "datetime": "2025-01-23 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Bounty Hunters",
+        "team2": "Tropa do Taco",
+        "datetime": "2025-01-23 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "adalYamigos",
+        "team2": "UNO MILLE",
+        "datetime": "2025-01-23 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Swingers",
+        "team2": "BESTIA",
+        "datetime": "2025-01-23 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "GameHunters",
+        "team2": "KRÜ",
+        "datetime": "2025-01-24 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Bad News Chickens",
+        "team2": "RED Canids",
+        "datetime": "2025-01-24 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Yawara",
+        "team2": "Solid",
+        "datetime": "2025-01-24 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Tropa do Taco",
+        "team2": "Bounty Hunters",
+        "datetime": "2025-01-24 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "UNO MILLE",
+        "team2": "adalYamigos",
+        "datetime": "2025-01-24 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "BESTIA",
+        "team2": "Swingers",
+        "datetime": "2025-01-24 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "NRG",
+        "team2": "Chill Guys",
+        "datetime": "2025-01-24 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Nouns",
+        "team2": "Alter Iron",
+        "datetime": "2025-01-24 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "BOSS",
+        "team2": "InControl",
+        "datetime": "2025-01-24 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Party Astronauts",
+        "team2": "Aetheris",
+        "datetime": "2025-01-24 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Marsborne",
+        "team2": "LAG",
+        "datetime": "2025-01-24 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "vagrants",
+        "team2": "Chicken Coop",
+        "datetime": "2025-01-24 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chill Guys",
+        "team2": "NRG",
+        "datetime": "2025-01-24 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Alter Iron",
+        "team2": "Nouns",
+        "datetime": "2025-01-24 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "BOSS",
+        "team2": "InControl",
+        "datetime": "2025-01-24 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Aetheris",
+        "team2": "Party Astronauts",
+        "datetime": "2025-01-24 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "LAG",
+        "team2": "Marsborne",
+        "datetime": "2025-01-24 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chicken Coop",
+        "team2": "vagrants",
+        "datetime": "2025-01-24 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chinggis Warriors",
+        "team2": "ATOX",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Rare Atom",
+        "team2": "-72c",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "FengDa",
+        "team2": "Lynn Vision",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "NomadS",
+        "team2": "LFO 2",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "UR",
+        "team2": "harizma",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The Huns",
+        "team2": "THE",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Just Swing",
+        "team2": "TYLOO",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "The QUBE",
+        "team2": "Gods Reign",
+        "datetime": "2025-01-24 13:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "ATOX",
+        "team2": "Chinggis Warriors",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "-72c",
+        "team2": "Rare Atom",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Lynn Vision",
+        "team2": "FengDa",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "LFO 2",
+        "team2": "NomadS",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "harizma",
+        "team2": "UR",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "THE",
+        "team2": "The Huns",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "TYLOO",
+        "team2": "Just Swing",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Gods Reign",
+        "team2": "The QUBE",
+        "datetime": "2025-01-24 14:00:00",
+        "event": "ESL Challenger League Season 49 Asia-Pacific"
+    },
+    {
+        "team1": "Tropa do Taco",
+        "team2": "Floripa Stars",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "BESTIA",
+        "team2": "Bounty Hunters",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Swingers",
+        "team2": "KRÜ",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "GameHunters",
+        "team2": "adalYamigos",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "ODDIK",
+        "team2": "RED Canids",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Yawara",
+        "team2": "Fluxo",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "UNO MILLE",
+        "team2": "Solid",
+        "datetime": "2025-01-24 23:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Floripa Stars",
+        "team2": "Tropa do Taco",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Bounty Hunters",
+        "team2": "BESTIA",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "KRÜ",
+        "team2": "Swingers",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "adalYamigos",
+        "team2": "GameHunters",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "RED Canids",
+        "team2": "ODDIK",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Fluxo",
+        "team2": "Yawara",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "Solid",
+        "team2": "UNO MILLE",
+        "datetime": "2025-01-25 00:00:00",
+        "event": "ESL Challenger League Season 49 South America"
+    },
+    {
+        "team1": "NRG",
+        "team2": "Getting Info",
+        "datetime": "2025-01-25 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Nouns",
+        "team2": "LAG",
+        "datetime": "2025-01-25 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "BOSS",
+        "team2": "Bad News Capybaras",
+        "datetime": "2025-01-25 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Party Astronauts",
+        "team2": "Chicken Coop",
+        "datetime": "2025-01-25 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Marsborne",
+        "team2": "Alter Iron",
+        "datetime": "2025-01-25 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "InControl",
+        "team2": "Aetheris",
+        "datetime": "2025-01-25 02:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Getting Info",
+        "team2": "NRG",
+        "datetime": "2025-01-25 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "LAG",
+        "team2": "Nouns",
+        "datetime": "2025-01-25 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Bad News Capybaras",
+        "team2": "BOSS",
+        "datetime": "2025-01-25 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Chicken Coop",
+        "team2": "Party Astronauts",
+        "datetime": "2025-01-25 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Alter Iron",
+        "team2": "Marsborne",
+        "datetime": "2025-01-25 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
+        "team1": "Aetheris",
+        "team2": "InControl",
+        "datetime": "2025-01-25 03:00:00",
+        "event": "ESL Challenger League Season 49 North America"
+    },
+    {
         "team1": "Liquid",
         "team2": "HEROIC",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "Complexity",
         "team2": "Eternal Fire",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "3DMAX",
         "team2": "FlyQuest",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "Astralis",
         "team2": "MIBR",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "paiN",
         "team2": "Virtus.pro",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "SAW",
         "team2": "GamerLegion",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "Wildcard",
         "team2": "BIG",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     },
     {
         "team1": "Imperial fe",
         "team2": "FURIA",
-        "datetime": "2025-01-29 08:00:00",
+        "datetime": "2025-01-29 11:00:00",
         "event": "IEM Katowice 2025 Play-in"
     }
 ]

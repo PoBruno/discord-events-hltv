@@ -55,9 +55,9 @@ async def fetch_hltv_matches():
             output_file = "./src/data/hltv_matches.json"
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(matches, f, ensure_ascii=False, indent=4)
-            print(f"Arquivo exportado com sucesso: {output_file}")
+            print(f"Arquivo exportado com sucesso: {output_file}", flush=True)
         else:
-            print("Nenhum dado de datetime válido encontrado.")
+            print("Nenhum dado de datetime válido encontrado.", flush=True)
     else:
         print("Nenhum match encontrado.")
         

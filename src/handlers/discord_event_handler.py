@@ -35,7 +35,7 @@ class DiscordEvents:
         async with aiohttp.ClientSession(headers=self.auth_headers) as session:
             async with session.post(url, json=data) as response:
                 response.raise_for_status()
-                print(f'Event created: {event_name}')
+                print(f'Event created: {event_name}', flush=True)
 
 async def check_and_create_events(client, guild_id, discord_token):
     events_api = DiscordEvents(discord_token)
@@ -52,11 +52,13 @@ async def check_and_create_events(client, guild_id, discord_token):
         if match['team1'] in desired_teams or match['team2'] in desired_teams:
             event_name = f"{match['team1']} vs {match['team2']}"
             event_time = tz.localize(datetime.strptime(match['datetime'], '%Y-%m-%d %H:%M:%S'))
+            formatted_datetime = event_time.strftime("%d/%m %H:%M")
+            
             if event_name not in existing_event_names:
-                event_description = f"**Match:** {match['team1']} vs {match['team2']} - {match['datetime'], '%Y-%m-%d %H:%M:%S'} \n**Event:** {match['event']}"
+                event_description = f"**Match:** {match['team1']} vs {match['team2']} - {formatted_datetime} \n**Event:** {match['event']}"
                 await events_api.create_guild_event(
                     guild_id=guild_id,
-                    event_name=event_name,
+                    event_name= f"{event_name} - {formatted_datetime}",
                     event_description=event_description,
                     event_start_time=event_time.isoformat(),
                     event_end_time=(event_time + timedelta(hours=2)).isoformat(),
